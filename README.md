@@ -11,6 +11,23 @@
 
 ---
 
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitKraken](https://img.shields.io/badge/GitKraken-DE5A93?logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker-compose&logoColor=white)](https://docs.docker.com/compose/)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)  
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white)](https://www.lua.org/)  
+[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+
 ## 🧰 Skills
 
 <table>
@@ -50,7 +67,6 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <th>개발 툴 · IDE · 컨테이너</th>
@@ -58,19 +74,10 @@
   </tr>
   <tr>
     <td>
-      [![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
-      [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
-      [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
-      [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
-      [![GitKraken](https://img.shields.io/badge/GitKraken-DE5A93?logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)  
-      [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
-      [![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker-compose&logoColor=white)](https://docs.docker.com/compose/)  
-      [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+      
     </td>
     <td>
-      [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
-      [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
-      [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+      
     </td>
   </tr>
   <tr>
@@ -79,13 +86,10 @@
   </tr>
   <tr>
     <td>
-      [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)  
-      [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)  
-      [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+      
     </td>
     <td>
-      [![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white)](https://www.lua.org/)  
-      [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+      
     </td>
   </tr>
 </table>

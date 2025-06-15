@@ -5,7 +5,7 @@
   />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&section=footer&height=200&reversal=true" />
+![footer](https://capsule-render.vercel.app/api?type=rect&text=See%20You!&desc=Thanks%20for%20visiting&fontSize=60&descSize=24&animation=twinkling&stroke=000000&strokeWidth=3)
 
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  

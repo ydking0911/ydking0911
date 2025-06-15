@@ -13,7 +13,7 @@
 
 ## 🧰 Skills
 
-<div align="left">
+<div align="center">
 
 ## 🧰 Skills
 

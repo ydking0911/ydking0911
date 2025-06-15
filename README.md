@@ -11,8 +11,6 @@
 
 ---
 
-## 🧰 Skills
-
 <div align="center">
 
 ## 🧰 Skills

@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/springboot.svg" width="30" alt="Spring Boot" /> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
     </td>

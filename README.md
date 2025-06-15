@@ -1,12 +1,12 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm YoungDu
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  
 > Spring Boot와 Python으로 안정적인 API를 개발하고, Docker·Kubernetes 기반 클라우드 환경 구축에 관심이 많습니다.
-
+</div>
 ---
-
+<div align="center">
 ## 🧰 Skills
 
 <table>

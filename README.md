@@ -6,7 +6,7 @@
 > Spring Boot와 Python으로 안정적인 API를 개발하고, Docker·Kubernetes 기반 클라우드 환경 구축에 관심이 많습니다.
 
 ---
-<div align="center">
+
 ## 🧰 Skills
 
 <table>

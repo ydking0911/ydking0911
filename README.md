@@ -5,7 +5,7 @@
   />
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Hello%20World&fontSize=70&textColor=000000)
+<img src="https://capsule-render.vercel.app/api?type=slice&section=footer&height=200&reversal=true" />
 
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  

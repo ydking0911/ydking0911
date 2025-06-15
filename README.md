@@ -52,9 +52,20 @@
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ydking0911&show_icons=true&show_rank=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydking0911&layout=compact&theme=dark)
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ydking0911&show_icons=true&show_rank=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydking0911&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ## 📂 Projects

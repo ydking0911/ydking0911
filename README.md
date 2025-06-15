@@ -67,32 +67,6 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <th>개발 툴 · IDE · 컨테이너</th>
-    <th>프론트엔드 언어 & 앱</th>
-  </tr>
-  <tr>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <th>백엔드 언어 & 프레임워크</th>
-    <th>게임 개발 언어 & 프레임워크</th>
-  </tr>
-  <tr>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-</table>
 
 ---
 

@@ -11,6 +11,8 @@
 
 ---
 
+## 🧰 Skills
+
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
@@ -28,7 +30,6 @@
 [![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white)](https://www.lua.org/)  
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
 
-## 🧰 Skills
 
 <table>
   <tr>

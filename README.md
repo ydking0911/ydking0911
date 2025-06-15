@@ -22,7 +22,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>  
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitkraken.svg" width="30"/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker-compose/docker-compose-original.svg" width="30"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker-compose/docker-compose-plain.svg" width="30" alt="Docker Compose" /> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="30"/>
     </td>
     <td>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="30"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" alt="Spring"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
     </td>

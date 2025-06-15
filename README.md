@@ -1,6 +1,10 @@
 <div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%2C%20I%27m%20YoungDu&fontSize=90" 
+    alt="header" 
+  />
+</div>
 
-# 👋 Hi, I'm YoungDu
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  
 > Spring Boot와 Python으로 안정적인 API를 개발하고, Docker·Kubernetes 기반 클라우드 환경 구축에 관심이 많습니다.

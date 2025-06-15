@@ -11,11 +11,11 @@
 
 ---
 
-<div align="center">
-
 ## 🧰 Skills
 
-**💻 개발 툴 · IDE · 컨테이너**
+<div align="center">
+
+**💻 개발 툴 · IDE · 컨테이너**  
 <p>
   [![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
@@ -24,33 +24,39 @@
   [![GitKraken](https://img.shields.io/badge/GitKraken-DE5A93?logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)  
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
   [![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker-compose&logoColor=white)](https://docs.docker.com/compose/)  
-  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
 </p>
 
 **🌐 프론트엔드 언어 & 앱**  
 <p>
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)  
 </p>
-
 
 **🖥️ 백엔드 언어 & 프레임워크**  
 <p>
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)  
   [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)  
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
 </p>
-
 
 **🎮 게임 개발 언어 & 엔진**  
 <p>
   [![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white)](https://www.lua.org/)  
-  [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)
+  [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](https://unity.com/)  
 </p>
 
-
 </div>
+
+
+
+
+
+
+
+
+
 
 ---
 

@@ -3,9 +3,9 @@
     src="https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Hi%2C%20I%27m%20YoungDu&fontSize=80&textColor=FFFFFF" 
     alt="header" 
   />
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Hello%20World&fontSize=70&textColor=000000)
-
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Hello%20World&fontSize=70&textColor=000000)
 
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  

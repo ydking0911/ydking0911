@@ -3,7 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=venom&color=1ABC9C&height=300&section=header&text=Hi%2C%20I%27m%20YoungDu&fontSize=80&textColor=FFFFFF&stroke=16A085&strokeWidth=2" 
     alt="header" 
   />
-</div>
+
 
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  

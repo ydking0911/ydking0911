@@ -1,11 +1,15 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Hi%2C%20I%27m%20YoungDu&fontSize=80&textColor=FFFFFF" 
-    alt="header" 
-  />
+  <img
+    src="https://capsule-render.vercel.app/api?
+      type=venom&
+      color=auto&
+      height=300&
+      section=header&
+      text=Hi%2C%20I%27m%20YoungDu&
+      fontSize=80&
+      textColor=FFFFFF"
+    alt="header" />
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&text=See%20You!&desc=Thanks%20for%20visiting&fontSize=60&descSize=24&animation=twinkling&stroke=000000&strokeWidth=3)
 
 
 > 백엔드 + 클라우드 개발자를 지망하는 열정적인 개발자입니다.  

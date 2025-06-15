@@ -56,10 +56,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ydking0911&show_icons=true&show_rank=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ydking0911&show_icons=true&show_rank=true&theme=gruvbox" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydking0911&layout=compact&theme=tokyonight" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydking0911&layout=compact&theme=gruvbox" alt="Top Langs" />
     </td>
   </tr>
 </table>

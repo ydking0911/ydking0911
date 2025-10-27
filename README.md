@@ -52,7 +52,7 @@
 
 | 이름               | 설명                             | 역할      | 진행도   |
 | :----------------: | :-------------------------------: | :-------: | :------: |
-| **YouthFi** | 청년 정책 및 금융 지원 서비스 | PM, Infra, Backend        | 진행중 |
+| **YouthFi** | 청년 정책 및 금융 지원 서비스 | PM, Infra, Backend, AI(RAG)        | 완료 |
 | **Alz-heimerdinger** | 치매 환자/보호자 통화 및 기록 서비스 | Infra, Backend        | 완료 |
 | **LumiDiary**         | 사진 기반 AI 일기장 작성       | Infra, Backend        | 완료 |
 | **DataScience**   | 기업 데이터 분석 프로젝트            | Architecture Design   | 완료 |

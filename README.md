@@ -52,6 +52,7 @@
 
 | 이름               | 설명                             | 역할      | 진행도   |
 | :----------------: | :-------------------------------: | :-------: | :------: |
+| **Vibe** | Vibe 코딩 테스트 평가 AI 프로젝트 | TL, Backend, Infra        | 진행중 |
 | **DKaffeine** | RAG 기반 카카오워크 AI 챗봇 | PM, AI(RAG, Multi-Agents)        | 진행중 |
 | **YouthFi** | 청년 정책 및 금융 지원 서비스 | PM, Infra, Backend, AI(RAG)        | 완료 |
 | **Alz-heimerdinger** | 치매 환자/보호자 통화 및 기록 서비스 | Infra, Backend        | 완료 |

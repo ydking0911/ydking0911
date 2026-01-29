@@ -52,7 +52,7 @@
 
 | 이름               | 설명                             | 역할      | 진행도   |
 | :----------------: | :-------------------------------: | :-------: | :------: |
-| **Gotcha** | Captcha 및 ReCaptcha 보안 해제 머신러닝 프로젝트 | Engineer        | 진행중 |
+| **Gotcha** | Captcha 및 ReCaptcha 보안 해제 머신러닝 프로젝트 | Engineer        | 완료 |
 | **G-Pyeong** | 강의 시간표 AI 생성 및 추천 서비스 | Backend, Infra        | 중단 |
 | **Vibe** | Vibe 코딩 테스트 평가 AI 프로젝트 | PM, PL, Backend, Infra        | 완료 |
 | **DKaffeine** | RAG 기반 카카오워크 AI 챗봇 | PM, AI(RAG, Multi-Agents)        | 완료 |

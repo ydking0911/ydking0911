@@ -29,20 +29,15 @@
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Activity
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ydking0911&show_icons=true&show_rank=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydking0911&layout=compact&theme=dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ydking0911/ydking0911/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ydking0911/ydking0911/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ydking0911/ydking0911/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 

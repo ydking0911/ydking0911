@@ -45,17 +45,18 @@
 
 ## 📂 Projects
 
-| 이름               | 설명                             | 역할      | 진행도   |
-| :----------------: | :-------------------------------: | :-------: | :------: |
-| **Dorumdorum** | 교내 기숙사 메이트 매칭 플랫폼 | Backend, Infra        | 진행중 |
-| **Gotcha** | Captcha 및 ReCaptcha 보안 해제 머신러닝 프로젝트 | Engineer        | 완료 |
-| **G-Pyeong** | 강의 시간표 AI 생성 및 추천 서비스 | Backend, Infra        | - |
-| **Vibe** | Vibe 코딩 테스트 평가 AI 프로젝트 | PM, PL, Backend, Infra        | 완료 |
-| **DKaffeine** | RAG 기반 카카오워크 AI 챗봇 | PM, AI(RAG, Multi-Agents)        | 완료 |
-| **YouthFi** | 청년 정책 및 금융 지원 서비스 | PM, Infra, Backend, AI(RAG)        | 완료 |
-| **Alz-heimerdinger** | 치매 환자/보호자 통화 및 기록 서비스 | Infra, Backend        | 완료 |
-| **LumiDiary**         | 사진 기반 AI 일기장 작성       | Infra, Backend        | 완료 |
-| **DataScience**   | 기업 데이터 분석 프로젝트            | Architecture Design   | 완료 |
-| **Software Engineering**  | 3-Tier Architecture 프로젝트         | Backend, Architecture Design   | 완료 |
+| 이름               | 설명                             | 기간      | 역할      | 진행도   |
+| :----------------: | :-------------------------------: | :-------: | :-------: | :------: |
+| **AI Store Manager** | 소상공인들을 위한 AI 부점장 매장 어시스턴트 | 2026.04 - | -                 | 진행중 |
+| **Dorumdorum** | 교내 기숙사 메이트 매칭 플랫폼               | 2026.01 - | Backend, Infra                       | 진행중 |
+| **Gotcha** | Captcha 및 ReCaptcha 보안 해제 머신러닝 프로젝트 | 2026.01 | AI Engineer(DL)                        | 완료 |
+| **G-Pyeong** | 강의 시간표 AI 생성 및 추천 서비스             | 2025.12 - | Backend, Infra                       | - |
+| **Vibe** | Vibe 코딩 테스트 평가 AI 플랫폼                  | 2025.09 - 2025.12 | PM, Backend, Infra           | 완료 |
+| **DKaffeine** | 카카오워크 AI RAG 기반 챗봇 및 백오피스 구축    | 2025.11 - 2025.12 | PM, AI(RAG)                  | 완료 |
+| **YouthFi** | 청년 예적금 정책 및 AI 금융 챗봇 & 모의투자 플랫폼 | 2025.09 - 2025.10 | PM, Infra, Backend, AI(RAG)  | 완료 |
+| **Alz-heimerdinger** | 치매 환자/보호자 통화 및 기록 케어 서비스 | 2025.07 - 2025.08 | Infra, Backend               | 완료 |
+| **LumiDiary**         | 사진 기반 AI 일기장 감성 분석 서비스   | 2025.03 - 2025.06 | Infra, Backend               | 완료 |
+| **DataScience**   | 기업 데이터 분석 및 수익 예측 모델         | 2025.03 - 2025.06 | Architecture Design          | 완료 |
+| **Software Engineering**  | 3-Tier Architecture 프로젝트 | 2025.03 - 2025.06 | Infra, Backend               | 완료 |
 
 </div>

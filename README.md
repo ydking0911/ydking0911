@@ -7,7 +7,7 @@
 
 
 > 백엔드 + 인프라/AI 개발자를 지망하는 개발자입니다.  
-> Spring Boot로 안정적인 API를 개발하고, Docker·Kubernetes 기반 인프라 환경 구축에 관심이 많습니다.
+> Spring Boot로 안정적인 API를 개발하고, Docker·Kubernetes 기반 인프라 환경 구축에 관심이 많습니다.  
 > FastAPI 기반 AI 모델링, 분석을 기반으로 실제 서비스의 비즈니스 모델이 될 수 있게 파이프라인을 설계합니다.
 
 ---

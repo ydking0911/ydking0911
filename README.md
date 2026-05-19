@@ -48,7 +48,7 @@
 | **Dorumdorum** | 교내 기숙사 메이트 매칭 플랫폼               | 2026.01 - | Backend, Infra                       | 진행중 |
 | **Gotcha** | Captcha 및 ReCaptcha 보안 해제 머신러닝 프로젝트 | 2026.01 | AI Engineer(DL)                        | 완료 |
 | **G-Pyeong** | 강의 시간표 AI 생성 및 추천 서비스             | 2025.12 - | Backend, Infra                       | - |
-| **Vibe** | Vibe 코딩 테스트 평가 AI 플랫폼                  | 2025.09 - 2025.12 | PM, Backend, Infra           | 완료 |
+| **Vibe** | Vibe 코딩 테스트 평가 AI 플랫폼                  | 2025.09 - | PM, Backend, Infra           | 진행중 |
 | **DKaffeine** | 카카오워크 AI RAG 기반 챗봇 및 백오피스 구축    | 2025.11 - 2025.12 | PM, AI(RAG)                  | 완료 |
 | **YouthFi** | 청년 예적금 정책 및 AI 금융 챗봇 & 모의투자 플랫폼 | 2025.09 - 2025.10 | PM, Infra, Backend, AI(RAG)  | 완료 |
 | **Alz-heimerdinger** | 치매 환자/보호자 통화 및 기록 케어 서비스 | 2025.07 - 2025.08 | Infra, Backend               | 완료 |

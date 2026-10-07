@@ -46,7 +46,7 @@
 
 | 이름               | 설명                             | 기간      | 역할      | 진행도   |
 | :----------------: | :-------------------------------: | :-------: | :-------: | :------: |
-| **cherrydeal** | 클라이밍 3D 기반 인식 및 루트 추천 | 2026.10 - | FE, BE, AI                       | 진행중 |
+| **modu-climb** | 클라이밍 3D 기반 인식 및 루트 추천 | 2026.10 - | FE, BE, AI                       | 진행중 |
 | **samsung-dtc** | DTC 차량 진단 그래프 분석 추적 (private) | 2026.08 - | BE, AI                       | 진행중 |
 | **AI-Debugger** | 코드 그래프 분석 및 에러/디버깅 위치 및 근거 추출 (private) | 2026.06 - 2026.09 | Backend, AI                       | 완료 |
 | **deundeun** | 건강검진결과 OCR 해석, 개인화 미션 수행 및 개선 앱 | 2026.06 - 2026.07 | Backend, AI                       | 완료 |
@@ -54,7 +54,7 @@
 | **Gotcha** | Captcha 및 ReCaptcha 보안 해제 머신러닝 프로젝트 | 2026.01 | AI Engineer(DL)                        | 완료 |
 | **Vibe** | Vibe 코딩 테스트 평가 AI 플랫폼                  | 2025.09 - 2026.06 | PM, Backend, Infra           | 완료 |
 | **DKaffeine** | 카카오워크 AI RAG 기반 챗봇 및 백오피스 구축 (private)    | 2025.11 - 2025.12 | PM, AI(RAG)                  | 완료 |
-| **YouthFi** | 청년 예적금 정책 및 AI 금융 챗봇 & 모의투자 플랫폼 | 2025.09 - 2025.10 | PM, Infra, Backend, AI(RAG)  | 완료 |
+| **Youth-Fi** | 청년 예적금 정책 및 AI 금융 챗봇 & 모의투자 플랫폼 | 2025.09 - 2025.10 | PM, Infra, Backend, AI(RAG)  | 완료 |
 | **Alz-heimerdinger** | 치매 환자/보호자 통화 및 기록 케어 서비스 | 2025.07 - 2025.08 | Infra, Backend               | 완료 |
 | **LumiDiary**         | 사진 기반 AI 일기장 감성 분석 서비스   | 2025.03 - 2025.06 | Infra, Backend               | 완료 |
 | **DataScience**   | 기업 데이터 분석 및 수익 예측 모델         | 2025.03 - 2025.06 | Architecture Design          | 완료 |
